@@ -1,6 +1,9 @@
-.pbody{
-    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
-    height: 87.5vh;
+
+.navbar{
+    position:fixed;
+    top:0;
+    width: 100vw;
+    background-color: #11ffee00;
 }
 
 .logoicono{
@@ -20,3 +23,35 @@ p{
    font-size: 25px;
 }
 
+.pbody{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1{
+    object-fit: cover;
+}
+
+.pbody2{
+    background-color: #30cfd0;
+    height: 90vh;
+}
+
+.precios{
+    height: 80vh;
+    width: 35vw;
+}
+
+
+.btn1{
+    background-image: url('../img/tb_prcs.png');
+    height: 45vh;
+    width: 14.5vw;
+}
