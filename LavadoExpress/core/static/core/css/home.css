@@ -1,0 +1,22 @@
+.pbody{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    height: 87.5vh;
+}
+
+.logoicono{
+    height: 4em;
+}
+
+.h{
+    background-color: aqua;
+}
+
+li{
+    margin: 1em;
+}
+
+p{
+   color: beige;
+   font-size: 25px;
+}
+
